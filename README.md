@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21skwcyrvtfnxuyhnxuro6zra&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21skwcyrvtfnxuyhnxuro6zra)
 <!--
 **Detmon0410/Detmon0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
