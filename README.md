@@ -1,5 +1,3 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Detmon0410&show_icons=true&theme=transparent)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21skwcyrvtfnxuyhnxuro6zra)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Detmon0410&size_weight=0.5&count_weight=0.5)
 
