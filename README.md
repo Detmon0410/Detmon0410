@@ -12,14 +12,15 @@
 In the realm of **open-source development**, a lone adventurer, **Detmon0410**, roams the lands, wielding the mighty tools of code and collaboration. From **front-end artistry** to **back-end sorcery**, they quest to create legendary applications and aid the GitHub community.
 
 **Stats:**
-- 🛡️ **Class**: Full-Stack Developer  
+- 🛡️ **Class**: Junior Full-Stack Developer  
 - ⚡ **Special Abilities**: Creative problem-solving, system design, and moonlit inspiration  
 - 🎓 **Guild Affiliation**: Open Source Collaborators  
 
-**Current Quests**:
-- 🌌 Unlocking the secrets of **multi-dimensional whiteboard projects**.  
-- 📖 Crafting a **Bookstore API** that stands the test of time.  
-- 🧪 Experimenting with new GitHub Community Addons.  
+## **Current Quests**
+- 🛡️ Becoming a **Full-Stack Master**, mastering both front-end and back-end realms.  
+- 🌐 Achieving expertise in **multi-language programming**, expanding skills across diverse ecosystems.  
+- ⚙️ Gaining **DevOps proficiency**, bridging the gap between development and operations.  
+
 
 ---
 
