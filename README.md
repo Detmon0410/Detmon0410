@@ -28,7 +28,7 @@ In the realm of **open-source development**, a lone adventurer, **Detmon0410**, 
 | **Category**       | **Equipment**                                  |
 |---------------------|-----------------------------------------------|
 | **Languages**       | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-red?style=flat-square&logo=python) ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go) |
-| **Frameworks**      | ![React](https://img.shields.io/badge/-React-yellow?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs) |
+| **Frameworks**      | ![React](https://img.shields.io/badge/-React-yellow?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs) ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js) ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django) ![Flask](https://img.shields.io/badge/-Flask-lightgrey?style=flat-square&logo=flask) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express) |
 | **Database Skills**  | ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb) ![MSSQL](https://img.shields.io/badge/-MSSQL-blue?style=flat-square&logo=microsoftsqlserver) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql) |
 
 
