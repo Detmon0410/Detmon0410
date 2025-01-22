@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Code%20Crafter-yellow?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/-Open%20Source%20Champion-red?style=for-the-badge&logo=opensourceinitiative" />
+  <img src="https://img.shields.io/badge/-Problem%20Striker%20-red?style=for-the-badge&logo=opensourceinitiative" />
   <img src="https://img.shields.io/badge/-Moonlit%20Explorer-black?style=for-the-badge" />
 </p>
 
