@@ -14,8 +14,7 @@ In the realm of **open-source development**, a lone adventurer, **Detmon0410**, 
 **Stats:**
 - 🛡️ **Class**: Junior Full-Stack Developer  
 - ⚡ **Special Abilities**: Creative problem-solving, system design, and moonlit inspiration  
-- 🎓 **Guild Affiliation**: Open Source Collaborators  
-
+- 🎓 **Guild Affiliation**: Japan System Co.Ltd. (TH)
 ## **Current Quests**
 - 🛡️ Becoming a **Full-Stack Master**, mastering both front-end and back-end realms.  
 - 🌐 Achieving expertise in **multi-language programming**, expanding skills across diverse ecosystems.  
