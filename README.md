@@ -29,7 +29,7 @@ In the realm of **open-source development**, a lone adventurer, **Detmon0410**, 
 |---------------------|-----------------------------------------------|
 | **Languages**       | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-red?style=flat-square&logo=python) ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go) |
 | **Frameworks**      | ![React](https://img.shields.io/badge/-React-yellow?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs) |
-| **Community Addons**| ![Discussions](https://img.shields.io/badge/-GitHub%20Discussions-red?style=flat-square&logo=github) ![PR Reviews](https://img.shields.io/badge/-Code%20Reviews-yellow?style=flat-square&logo=github) |
+| **Database Skills**  | ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb) ![MSSQL](https://img.shields.io/badge/-MSSQL-blue?style=flat-square&logo=microsoftsqlserver) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql) |
 
 
 ---
