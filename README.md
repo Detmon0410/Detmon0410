@@ -26,14 +26,7 @@ Hello! I'm **Detmon0410**, a developer with a passion for creating innovative so
 | **Frameworks** | ![React](https://img.shields.io/badge/-React-yellow?style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square) |
 | **Tools** | ![Docker](https://img.shields.io/badge/-Docker-red?style=flat-square) ![VSCode](https://img.shields.io/badge/-VSCode-yellow?style=flat-square) |
 
----
 
-## 🌌 Featured Projects
-Check out some of my work:
-
-1. 🚀 **[Whiteboard App](https://github.com/Detmon0410/whiteboard-app)** - A collaborative whiteboard built with Node.js and React.
-2. 🛒 **[Book Store API](https://github.com/Detmon0410/bookstore-api)** - A robust backend for managing book inventory.
-3. ✅ **[To-Do List](https://github.com/Detmon0410/todo-list)** - An API for managing daily tasks, built with Flask.
 
 ---
 
