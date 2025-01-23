@@ -52,7 +52,7 @@ In the realm of **open-source development**, a lone adventurer, **Detmon0410**, 
 ---
 
 ## 🌕 Parting Words
-_“The code is the sword, collaboration is the shield, and curiosity is the map to undiscovered lands.”_
+_“Others live to develop, but I develop to survive.”_
 
 Prepare yourself for the adventures ahead, and may your journey through the lands of **GitHub** be one of growth and victory.  
 
