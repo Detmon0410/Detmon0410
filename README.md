@@ -53,7 +53,10 @@ In the realm of **open-source development**, a lone adventurer, **Detmon0410**, 
 
 
 </p>
+
+
 ---
+
 ## 🌕 Parting Words
 _“Others live to develop, but I develop to survive.”_
 
